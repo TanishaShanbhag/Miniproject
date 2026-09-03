@@ -56,3 +56,16 @@ Diabetes_project/
 │
 ├── demo.mp4
 └── README.md
+
+🧠 Machine Learning
+
+The project includes a Random Forest model with sigmoid calibration.
+
+The model documentation reports:
+
+Model: Random Forest (600 estimators) with sigmoid calibration
+Test AUC: 0.974
+F1 Score: 0.952
+Accuracy: 0.926
+
+The project uses a clinically realistic synthetic dataset for model development.
